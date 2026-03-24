@@ -30,10 +30,9 @@ Tech
 Streamlit | Pandas | Plotly | SQLite
 
 ## 📱 Demo Screenshots
-![Homepage](screenshots/homepage.png)
-![Log Symptom](screenshots/log-symptom.png)
-![Charts](screenshots/charts.png)
-![Export](screenshots/export.png)
+![Homepage]homepage.png)
+![Log](log.png)
+![Charts](charts.png)
+![Export](export.png)
 
 
-<img width="1906" height="825" alt="homepage" src="https://github.com/user-attachments/assets/567985dd-2ad7-4c3c-bcc9-2b7951277488" />
