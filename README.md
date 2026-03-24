@@ -29,12 +29,9 @@ pages/4_Export.py
 Tech
 Streamlit | Pandas | Plotly | SQLite
 
-## 📱 Live Demo Screenshots
+## 📱 Demo Screenshots
+![Homepage](screenshots/homepage.png)
+![Log Symptom](screenshots/log-symptom.png)
+![Charts](screenshots/charts.png)
+![Export](screenshots/export.png)
 
-<img src="https://github.com/user-attachments/assets/e3f023be-8522-4a84-930a-84c6729a7aaf" width="800" alt="Homepage" />
-
-<img src="https://github.com/user-attachments/assets/fa645088-8a31-4b22-8d9c-0a357da8346f" width="800" alt="Log Symptoms" />
-
-<img src="https://github.com/user-attachments/assets/a97a46ba-6aef-441e-960b-b0004602618d" width="800" alt="Charts" />
-
-<img src="https://github.com/user-attachments/assets/cc032c15-e5fb-4204-9aaf-ae75711b9a4c" width="800" alt="Export" />
